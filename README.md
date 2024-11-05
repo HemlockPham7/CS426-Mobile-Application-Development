@@ -19,5 +19,20 @@ https://youtu.be/zxcNyRqYRdw
 - Buy a ticket 
 
 ## 📸 Snapshots
-### Home Screen
+### Log in
+![login](https://github.com/user-attachments/assets/87e34506-8f50-4552-97de-955031fc5f04)
 
+
+### Events Display
+![events](https://github.com/user-attachments/assets/2a897744-6014-40ca-a26c-4857ad5c7008)
+
+### Tickets that bought Display
+![tickets](https://github.com/user-attachments/assets/63f9a74d-711b-4972-883f-fa54f2c3bc60)
+
+### Admin Creates New Event
+![create](https://github.com/user-attachments/assets/45956701-fd1f-45bb-aa08-1201ef257611)
+
+![462549807_1230873148032600_88304836716176407_n](https://github.com/user-attachments/assets/a9502b49-a3b1-4cf0-95bc-fa93fda00159)
+
+### Log out
+![logout](https://github.com/user-attachments/assets/f6c5bdcc-152e-4ac7-8fad-2ee7063660f4)

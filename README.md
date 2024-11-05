@@ -8,10 +8,15 @@
 - Link to the backend: https://github.com/HemlockPham7/golangticketbookingapp
 
 ## 👓 Demo
+https://youtu.be/zxcNyRqYRdw
 
 ## ⭐ Features
 - QR-Code Scanning to check out the ticket for entering the event
-
+- Create a new event
+- Edit an event
+- Delete an event
+- Login as admin/ login as attendee
+- Buy a ticket 
 
 ## 📸 Snapshots
 ### Home Screen
